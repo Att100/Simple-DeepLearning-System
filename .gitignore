@@ -1,3 +1,10 @@
+# custom
+dataset/mnist/*.idx3-ubyte
+dataset/mnist/*.idx1-ubyte
+notebook.ipynb
+test.py
+*.prototxt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
